@@ -1,9 +1,69 @@
 *{
 	font-family: 'Lato', sans-serif;
 }
+/*SECCION 1*/
 .first-section{
 	background-image: url(../img/bg.jpeg);
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
+}
+.first-section h1{
+	padding-top: 2em;
+	color: #fff;
+	font-weight: 900;
+	font-size: 70px;
+}
+.line{
+	border-top: 3px solid white;
+}
+#showApp{
+	color: #fff;
+	font-weight: 400;
+}
+/*SECTION 2*/
+.app{
+	padding: 2em 0;
+	color: #5A5A5A;
+}
+/*SECTION 2*/
+.second-section{
+	background-color: #fff;
+	padding: 5em 0;
+}
+.title-second{
+	color: #D2527F;
+}
+.features{
+	padding: 0,8em;
+}
+.features:hover{
+	background-color: #F2F2F2;
+	cursor: pointer;
+}
+p{
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: #666
+	margin-top: 1em;
+}
+/*SECTION 3*/
+.third-section{
+	background-color: #F2F2F2;
+	height: 
+}
+.btn-default{
+	color: #fff;
+	background-color: #D2527F;
+	border-color: #B4215D;
+}
+.btn-default:hover{
+	background-color: #C53A6D;
+	color: #fff;
+}
+.btns{
+	padding-top: 5em;
 }
